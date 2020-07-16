@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AidlPermission</string>
+    <string name="permission">permission to access and use student service</string>
+</resources>
